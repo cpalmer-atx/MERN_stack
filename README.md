@@ -11,4 +11,7 @@ Some other observations about the tutorial:
 
 * mongoose.connect() will need the mongoURI and the following argument to successfully connect to the database: { useNewUrlParser: true, useUnifiedTopology: true } 
 
+## Implementing React
+Begin by creating a new folder named 'client' in the root directory.  For windows users: While in client in terminal/git Bash, you'll need to create the app using npx.  The tutorial instructs users to execute $create-react-app . ('.' points to the current directory for app creation).
+
 ### For more projects like this, check out www.traversymedia.com
